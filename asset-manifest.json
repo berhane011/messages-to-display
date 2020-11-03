@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/display-massages/static/css/main.98b3afce.chunk.css",
+    "main.js": "/display-massages/static/js/main.1aa8c974.chunk.js",
+    "main.js.map": "/display-massages/static/js/main.1aa8c974.chunk.js.map",
+    "runtime-main.js": "/display-massages/static/js/runtime-main.92db515d.js",
+    "runtime-main.js.map": "/display-massages/static/js/runtime-main.92db515d.js.map",
+    "static/js/2.3c302b62.chunk.js": "/display-massages/static/js/2.3c302b62.chunk.js",
+    "static/js/2.3c302b62.chunk.js.map": "/display-massages/static/js/2.3c302b62.chunk.js.map",
+    "static/js/3.c6650b30.chunk.js": "/display-massages/static/js/3.c6650b30.chunk.js",
+    "static/js/3.c6650b30.chunk.js.map": "/display-massages/static/js/3.c6650b30.chunk.js.map",
+    "index.html": "/display-massages/index.html",
+    "static/css/main.98b3afce.chunk.css.map": "/display-massages/static/css/main.98b3afce.chunk.css.map",
+    "static/js/2.3c302b62.chunk.js.LICENSE.txt": "/display-massages/static/js/2.3c302b62.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/display-massages/static/media/img.fd021904.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92db515d.js",
+    "static/js/2.3c302b62.chunk.js",
+    "static/css/main.98b3afce.chunk.css",
+    "static/js/main.1aa8c974.chunk.js"
+  ]
+}
