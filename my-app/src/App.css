@@ -40,3 +40,10 @@
   background-size: cover;
   height: 55rem;
 }
+@media (max-width: 900px) {
+  .App {
+    display: block;
+
+    flex-direction: column;
+  }
+}
